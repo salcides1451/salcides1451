@@ -1,6 +1,5 @@
-# Olá a todos 👋
-
-Sou o Marcus Vinicius, estou atualmente fazendo engenharia da computação e com um grande foco em automação industrial, sistemas embarcados e energia sustentável.
+ <h1 align="center">Olá a todos 👋</h1> 
+Eu sou o Marcus Vinicius, estou atualmente fazendo engenharia da computação e com um grande foco em automação industrial, sistemas embarcados e energia sustentável.
 
 <div>
   <a href="https://github.com/salcides1451">
@@ -9,7 +8,7 @@ Sou o Marcus Vinicius, estou atualmente fazendo engenharia da computação e com
 
 ##
 
-<div style="display: inline_block"><br>
+<div align="center" valign="top"><br>
   <img align="center" alt="Jarvas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Jarvas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jarvas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
